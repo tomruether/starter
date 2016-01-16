@@ -21,7 +21,14 @@
     - curl
     - git
     - git-flow
+    - zsh
+    - vim
+    - ctags
+    - reattach-to-user-namespace
+    - tmux
     cask_packages:
+    - iterm2
+    - macvim
     - font-roboto
     - font-source-sans-pro
     - atom
