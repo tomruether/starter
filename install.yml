@@ -6,14 +6,39 @@
     brew_taps:
     - caskroom/fonts
     brew_packages:
+    - mysql
+    - dnsmasq
+    - nginx
+    - redis
+    - memcached
+    - libmemcached
+    - wget
+    - jpegoptim
+    - pngcrush
+    - imagemagick
+    - graphicsmagick
+    - ack
+    - curl
     - git
-    - zsh
-    - vim
-    - the_silver_searcher
-    - ctags
-    - reattach-to-user-namespace
-    - tmux
+    - git-flow
     cask_packages:
-    - font-inconsolata-for-powerline
-    - iterm2
-    - macvim
+    - font-roboto
+    - font-source-sans-pro
+    - atom
+    - appcleaner
+    - chromium
+    - coda
+    - firefox
+    - google-chrome
+    - imagealpha
+    - imageopiom
+    - ksdiff
+    - objektiv
+    - opera
+    - sequel-pro
+    - sketch
+    - skype
+    - spectacle
+    - sublime-text
+    - tower
+    - vlc
